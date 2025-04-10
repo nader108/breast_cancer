@@ -26,7 +26,7 @@ This project is a web-based breast cancer detection system that leverages the po
 
 ## 📂 Project Structure
 
-📁 breast_cancer/ │ ├── static/ │ └── uploaded/ # Uploaded and result images │ ├── templates/ │ └── index.html # Frontend UI │ ├── best.pt # YOLOv8m trained model ├── app.py # Main Flask app ├── 
+📁 breast_cancer/ │ ├── static/ │ └── uploaded/ # Uploaded and result images │ ├── templates/ │ └── index.html # Frontend UI │ ├── best.pt # YOLOv11m trained model ├── app.py # Main Flask app ├── 
 
 ## ⚙️ How to Run
 
